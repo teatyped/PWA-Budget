@@ -9,6 +9,7 @@
 - run 'npm install'
 - run 'npm start'
 
+![Screen Shot 2022-07-03 at 2 48 35 PM](https://user-images.githubusercontent.com/96491122/177054609-95cfda84-b9e5-4324-b9c0-5444b7f9ed31.png)
 
 
 
